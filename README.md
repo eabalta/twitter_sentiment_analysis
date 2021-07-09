@@ -1,5 +1,4 @@
 # **Twitter Sentiment Analysis**
-___
 
 NLP Project for AI Methods class. <br>
 The project purpose detecting sexist/racist tweets on Twitter. 
